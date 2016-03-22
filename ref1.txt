@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It helps highlight the location of any changes made to the code.
+Thus, by reducing your focus to the locations of change, you are more easily able to 
+scan for errors. 
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Well, if you're having trouble getting a program to run after trying to apply some changes,
+it might be a better idea to revert back to a working copy and start over. Without version
+control though, this will not be possible (Or at least, not easy). 
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+You can control the checkpoints of your code, so you can pick up right before/after a big 
+change. If saving is automatic, it might put you between changes that make it difficult
+to resume your work exactly in the middle of the minutia. 
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in 
+one commit, while others, like Google Docs, treat each file separately?
+
+Because with code projects its difficult to make a blanket statement about how many files
+are attached to the same project, so its better to let user decide. Similarly, google docs
+are likely to be used as a single document, without accompanying material. 
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git Log can be used for a high level approach to figuring out what commits where made and
+when, whereas git diff can be useful for a more fine-grained comparison between two commits.
+
+
+How might using version control make you more confident to make changes that could break something?
+
+Having a safety net can let a programmer be more aggressive in their design changes as they 
+experiment with possible bug fixes, as they know if they ever get into a situation where 
+something isn't running, they can revert to a working version. 
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Getting up to snuff so that I can continue with my education :D #nerding

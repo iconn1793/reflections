@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It begins tracking any documents/files that are marked in the repository. Since Git is a 
+sequence of code changes, this is the start of that sequence.
