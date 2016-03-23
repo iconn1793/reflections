@@ -2,3 +2,14 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It begins tracking any documents/files that are marked in the repository. Since Git is a 
 sequence of code changes, this is the start of that sequence.
+
+
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+Staging directory is for storing files that have had changes made before committing them 
+to the repo. I'm not quite sure the value, but maybe more will be covered?
+
+
+This is a test for git commit
