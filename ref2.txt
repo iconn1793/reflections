@@ -27,3 +27,8 @@ How do the diagrams help you visualize the branch structure?
 
 By providing a visual graphic of the flow of development and iteration. 
 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is a mix of both line of commits being applied to the same Master branch. The reason for
+it being represented like that in the diagram is due to time stamp chronology.
