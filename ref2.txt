@@ -32,3 +32,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The result is a mix of both line of commits being applied to the same Master branch. The reason for
 it being represented like that in the diagram is due to time stamp chronology.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros is that it can save time as opposed to manually entering the changes, but the con is that it can be a pain to interface with the basic software discernment between old and new code.
