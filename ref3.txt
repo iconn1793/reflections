@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Anytime a project is being worked on from more than one terminal. Ex: multiple engineers, multiple locations for the same engineer, or even anytime you want to back up a project.
