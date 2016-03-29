@@ -6,3 +6,13 @@ Anytime a project is being worked on from more than one terminal. Ex: multiple e
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because Git might make set the remote repo as public when it is in a non-functioning state between logical updates. 
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are used split repo’s on git hub, clones are used to copy the files needed to start a repo on either github or local terminal, and branches are splits in commit chronology when working on multiple aspects of a code base simultaneously. 
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can use it while offline if you still want to investigate differences and or merge without internet later.
