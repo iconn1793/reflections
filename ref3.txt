@@ -16,3 +16,8 @@ Forks are used split repo’s on git hub, clones are used to copy the files need
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can use it while offline if you still want to investigate differences and or merge without internet later.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Maybe by emailing files, or only working on at a time. Either way, that seems like a huge bitch. 
